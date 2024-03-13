@@ -74,4 +74,5 @@
   3. pip install https://github.com/pymupdf/PyMuPDF/archive/master.tar.gz
   4. 다시 처음부터 paddlepaddle, paddleocr을 설치하면 됩니다.
 
-* !
+<img width="703" alt="스크린샷 2024-03-13 오후 4 31 05" src="https://github.com/Leekayoung12/teamproject3/assets/149549320/22956a04-a254-45a6-82fd-48e6537be5c7">
+
